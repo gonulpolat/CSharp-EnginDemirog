@@ -1,0 +1,7 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\bin\Debug\6_06.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\bin\Debug\6_06.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\bin\Debug\6_06.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\obj\Debug\6_06.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\obj\Debug\6_06.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\obj\Debug\6_06.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\06_Metotlar\6_06\obj\Debug\6_06.pdb

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B325D4-623E-4AA4-A358-7B5CEF3DF1F4}|6_07\\6_07.csproj|c:\\users\\polat.000\\btkakademiengindemirog\\06_metotlar\\6_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B325D4-623E-4AA4-A358-7B5CEF3DF1F4}|6_07\\6_07.csproj|solutionrelative:6_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E7DF-6F14-4E7F-9641-024E357877DE}|6_06\\6_06.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E7DF-6F14-4E7F-9641-024E357877DE}|6_06\\6_06.csproj|solutionrelative:6_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC6C0B-00DF-42E9-A229-E3D75712F40A}|6_05\\6_05.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC6C0B-00DF-42E9-A229-E3D75712F40A}|6_05\\6_05.csproj|solutionrelative:6_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C870AA-42A5-4FDB-A821-F13B9E01A1A6}|6_04\\6_04.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C870AA-42A5-4FDB-A821-F13B9E01A1A6}|6_04\\6_04.csproj|solutionrelative:6_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA568CC-91CE-4221-A12F-F27D45304D1C}|6_03\\6_03.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA568CC-91CE-4221-A12F-F27D45304D1C}|6_03\\6_03.csproj|solutionrelative:6_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8ECEF4-C9C2-4062-AA7C-1D61707792E7}|6_02\\6_02.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8ECEF4-C9C2-4062-AA7C-1D61707792E7}|6_02\\6_02.csproj|solutionrelative:6_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC956987-BEA3-448D-A74A-C622C26911E5}|6_01\\6_01.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC956987-BEA3-448D-A74A-C622C26911E5}|6_01\\6_01.csproj|solutionrelative:6_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_07\\Program.cs",
+              "RelativeDocumentMoniker": "6_07\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_07\\Program.cs",
+              "RelativeToolTip": "6_07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:35:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_06\\Program.cs",
+              "RelativeDocumentMoniker": "6_06\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_06\\Program.cs",
+              "RelativeToolTip": "6_06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:58.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_05\\Program.cs",
+              "RelativeDocumentMoniker": "6_05\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_05\\Program.cs",
+              "RelativeToolTip": "6_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_04\\Program.cs",
+              "RelativeDocumentMoniker": "6_04\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_04\\Program.cs",
+              "RelativeToolTip": "6_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:40.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_03\\Program.cs",
+              "RelativeDocumentMoniker": "6_03\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_03\\Program.cs",
+              "RelativeToolTip": "6_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_02\\Program.cs",
+              "RelativeDocumentMoniker": "6_02\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_02\\Program.cs",
+              "RelativeToolTip": "6_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:21.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_01\\Program.cs",
+              "RelativeDocumentMoniker": "6_01\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\06_Metotlar\\6_01\\Program.cs",
+              "RelativeToolTip": "6_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:08.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
