@@ -1,0 +1,7 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\bin\Debug\8_01.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\bin\Debug\8_01.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\bin\Debug\8_01.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\obj\Debug\8_01.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\obj\Debug\8_01.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\obj\Debug\8_01.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\08_Donguler\8_01\obj\Debug\8_01.pdb
