@@ -1,0 +1,7 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\bin\Debug\4_02.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\bin\Debug\4_02.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\bin\Debug\4_02.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\obj\Debug\4_02.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\obj\Debug\4_02.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\obj\Debug\4_02.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\04_VeriTipleri\4_02\obj\Debug\4_02.pdb
