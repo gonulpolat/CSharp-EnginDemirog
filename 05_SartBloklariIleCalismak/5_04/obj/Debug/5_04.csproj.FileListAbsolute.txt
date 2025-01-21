@@ -1,0 +1,7 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\bin\Debug\5_04.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\bin\Debug\5_04.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\bin\Debug\5_04.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\obj\Debug\5_04.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\obj\Debug\5_04.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\obj\Debug\5_04.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\05_SartBloklariIleCalismak\5_04\obj\Debug\5_04.pdb
