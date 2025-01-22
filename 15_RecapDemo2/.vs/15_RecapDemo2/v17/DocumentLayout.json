@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|solutionrelative:15_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|c:\\users\\polat.000\\btkakademiengindemirog\\15_recapdemo2\\15_01\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|solutionrelative:15_01\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|solutionrelative:15_01\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|solutionrelative:15_01\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|solutionrelative:15_01\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|c:\\users\\polat.000\\btkakademiengindemirog\\15_recapdemo2\\15_01\\smslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CDC9C0-EA55-4469-A08E-BE652A458B98}|15_01\\15_01.csproj|solutionrelative:15_01\\smslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmsLogger.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\SmsLogger.cs",
+              "RelativeDocumentMoniker": "15_01\\SmsLogger.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\SmsLogger.cs",
+              "RelativeToolTip": "15_01\\SmsLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:05:47.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\FileLogger.cs",
+              "RelativeDocumentMoniker": "15_01\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\FileLogger.cs",
+              "RelativeToolTip": "15_01\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:14:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\ILogger.cs",
+              "RelativeDocumentMoniker": "15_01\\ILogger.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\ILogger.cs",
+              "RelativeToolTip": "15_01\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:13:27.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\DatabaseLogger.cs",
+              "RelativeDocumentMoniker": "15_01\\DatabaseLogger.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\DatabaseLogger.cs",
+              "RelativeToolTip": "15_01\\DatabaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:07:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "15_01\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\CustomerManager.cs",
+              "RelativeToolTip": "15_01\\CustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:05:08.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\Program.cs",
+              "RelativeDocumentMoniker": "15_01\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\15_RecapDemo2\\15_01\\Program.cs",
+              "RelativeToolTip": "15_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:04:49.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
