@@ -1,0 +1,10 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\bin\Debug\DamaTahtasi.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\bin\Debug\DamaTahtasi.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\bin\Debug\DamaTahtasi.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.Form1.resources
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.Properties.Resources.resources
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.GenerateResource.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\11_RecapDemo1\DamaTahtasi\obj\Debug\DamaTahtasi.pdb
