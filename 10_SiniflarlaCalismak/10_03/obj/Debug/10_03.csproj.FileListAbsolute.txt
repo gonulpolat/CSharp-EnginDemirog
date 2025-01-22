@@ -1,0 +1,7 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\bin\Debug\10_03.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\bin\Debug\10_03.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\bin\Debug\10_03.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\obj\Debug\10_03.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\obj\Debug\10_03.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\obj\Debug\10_03.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\10_SiniflarlaCalismak\10_03\obj\Debug\10_03.pdb
