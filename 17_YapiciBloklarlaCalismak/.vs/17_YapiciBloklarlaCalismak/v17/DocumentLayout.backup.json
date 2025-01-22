@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF68CAE-329D-433F-BAE4-03E7D3DE0DE4}|17_04\\17_04.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\17_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FF68CAE-329D-433F-BAE4-03E7D3DE0DE4}|17_04\\17_04.csproj|solutionrelative:17_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC726455-598D-4412-8AD6-85A0E3A04670}|17_05\\17_05.csproj|C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\17_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC726455-598D-4412-8AD6-85A0E3A04670}|17_05\\17_05.csproj|solutionrelative:17_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\17_05\\Program.cs",
+              "RelativeDocumentMoniker": "17_05\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\17_05\\Program.cs",
+              "RelativeToolTip": "17_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:53:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\17_04\\Program.cs",
+              "RelativeDocumentMoniker": "17_04\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\17_YapiciBloklarlaCalismak\\17_04\\Program.cs",
+              "RelativeToolTip": "17_04\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:53:40.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
