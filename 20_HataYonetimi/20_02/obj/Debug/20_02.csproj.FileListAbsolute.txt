@@ -1,0 +1,7 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\bin\Debug\20_02.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\bin\Debug\20_02.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\bin\Debug\20_02.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\obj\Debug\20_02.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\obj\Debug\20_02.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\obj\Debug\20_02.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\20_HataYonetimi\20_02\obj\Debug\20_02.pdb
