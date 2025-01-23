@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\18_DegerVeReferansTipleriniAnlamak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7D86E-0955-4A74-8900-2247A57DB4FB}|18_01\\18_01.csproj|c:\\users\\polat.000\\btkakademiengindemirog\\18_degervereferanstiplerinianlamak\\18_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7D86E-0955-4A74-8900-2247A57DB4FB}|18_01\\18_01.csproj|solutionrelative:18_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\18_DegerVeReferansTipleriniAnlamak\\18_01\\Program.cs",
+              "RelativeDocumentMoniker": "18_01\\Program.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\18_DegerVeReferansTipleriniAnlamak\\18_01\\Program.cs",
+              "RelativeToolTip": "18_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:07:28.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
