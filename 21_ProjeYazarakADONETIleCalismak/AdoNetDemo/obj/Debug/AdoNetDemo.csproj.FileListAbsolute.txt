@@ -1,0 +1,10 @@
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\polat.000\BtkAkademiEnginDemirog\21_ProjeYazarakADONETIleCalismak\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
