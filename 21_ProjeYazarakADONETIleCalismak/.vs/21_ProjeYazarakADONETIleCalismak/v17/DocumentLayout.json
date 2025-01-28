@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\21_ProjeYazarakADONETIleCalismak\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5947C49-14E8-43A4-B96C-B8970F6B21D0}|AdoNetDemo\\AdoNetDemo.csproj|c:\\users\\polat.000\\btkakademiengindemirog\\21_projeyazarakadonetilecalismak\\adonetdemo\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5947C49-14E8-43A4-B96C-B8970F6B21D0}|AdoNetDemo\\AdoNetDemo.csproj|solutionrelative:adonetdemo\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\21_ProjeYazarakADONETIleCalismak\\AdoNetDemo\\ProductDal.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\ProductDal.cs",
+              "ToolTip": "C:\\Users\\polat.000\\BtkAkademiEnginDemirog\\21_ProjeYazarakADONETIleCalismak\\AdoNetDemo\\ProductDal.cs",
+              "RelativeToolTip": "AdoNetDemo\\ProductDal.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:22:37.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
